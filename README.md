@@ -12,3 +12,8 @@ This is an Anime Quiz app developed using Flutter and Dart programming language.
 - Flutter: The app is developed using the Flutter framework, which enables cross-platform app development for iOS and Android.
 
 - Dart: The programming language used for building the app's logic and functionality.
+<img src="https://github.com/prachisuman25/QuizApp/assets/78547011/74c9e690-b415-4bd2-b32e-450cb07a6c06" width="200" height="350">
+<img src="https://github.com/prachisuman25/QuizApp/assets/78547011/7e1ad48c-586a-428b-b811-0351a0f768cc" width="200" height="350">
+<img src="https://github.com/prachisuman25/QuizApp/assets/78547011/41c96ef4-ef72-4df2-ba20-05b32ffe81a7" width="200" height="350">
+
+
