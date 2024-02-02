@@ -4,7 +4,7 @@ import 'package:anime_quiz_app/data/questions.dart';
 import 'package:anime_quiz_app/question_summary.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class ResultsScreen extends StatelessWidget {
+class ResultsScreen extends StatelessWidget { 
   const ResultsScreen({
     super.key,
     required this.chosenAnswers,
